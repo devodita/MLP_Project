@@ -10,7 +10,7 @@ This project was part of the Machine Learning module of the **IIT Madras Online 
 ## Project Structure
 
 ```text
-System-Threat-Forecaster/
+MLP_Project/
 ├── dataset/
 │   ├── train.csv
 │   └── test.csv
